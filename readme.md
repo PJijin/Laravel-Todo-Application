@@ -2,7 +2,7 @@
 
 Simple laravel todo applicaiton. 🚀
 
-[![Laravel ToDo Application](https://github.com/PJijin/Laravel-Todo-Application/blob/master/preview.png?raw=true "Laravel ToDo Application")]
+[Laravel ToDo Application](https://github.com/PJijin/Laravel-Todo-Application/blob/master/preview.png?raw=true "Laravel ToDo Application")
 
 
 ## Stack
