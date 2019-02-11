@@ -22,3 +22,12 @@ Flashy (https://github.com/mercuryseries/flashy)
 4. Run this command
     `php artisan migrate`
 5. Done !!! 🥳  
+
+
+## Bugs, Update, License
+
+- Feel free to report bugs to jijin@devzstudio.com 🐞
+
+- Feel free to customize ✒️
+
+- Open source 🎉
