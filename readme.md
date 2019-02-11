@@ -2,6 +2,9 @@
 
 Simple laravel todo applicaiton. 🚀
 
+[![Laravel ToDo Application](/preview.jpg "Laravel ToDo Application")]
+
+
 ## Stack
 Laravel 5.7 (https://laravel.com)
 
@@ -18,10 +21,12 @@ Flashy (https://github.com/mercuryseries/flashy)
 1. Clone or download the source code
 2. Run this command
     `composer update`
-3. Enter database details on .env file
+3. Rename .env.sample to .env and enter database details on that file.
 4. Run this command
     `php artisan migrate`
-5. Done !!! 🥳  
+5. Run this command for generating key
+     `php artisan key:generate`
+6. Done !!! 🥳  
 
 
 ## Bugs, Update, License
