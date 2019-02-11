@@ -4,7 +4,9 @@ Simple laravel todo applicaiton. 🚀
 
 ## Stack
 Laravel 5.7 (https://laravel.com)
+
 Twitter Bootstrap (https://getbootstrap.com)
+
 Tailwind Css (https://tailwindcss.com/)
 
 ## Dependencies
